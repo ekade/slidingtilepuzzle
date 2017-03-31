@@ -1,0 +1,9 @@
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\bin\Debug\SlidingTilePuzzle.exe.config
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\bin\Debug\SlidingTilePuzzle.exe
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\bin\Debug\SlidingTilePuzzle.pdb
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.frmMain.resources
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.Properties.Resources.resources
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.csproj.GenerateResource.Cache
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.exe
+C:\Desarrollo\Projects\SlidingTilePuzzle\SlidingTilePuzzle\obj\Debug\SlidingTilePuzzle.pdb
